@@ -1,0 +1,25 @@
+{
+  "name": "PhotoboothOnline \u2013 Free Online Photobooth",
+  "short_name": "Photobooth",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#150d1c",
+  "theme_color": "#150d1c",
+  "description": "Free online photobooth: take photo strips with your webcam.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
